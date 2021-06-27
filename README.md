@@ -12,10 +12,11 @@
 
 ### Connect with me:
 
+<div>
 <a class="links" href="https://www.linkedin.com/in/keyur-shah-899378202/"><img class="react-image" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-256.png" alt=""></a>
 
 <a class="links" href="https://keyur-developer.netlify.app/"><img class="react-image" src="https://cdn2.iconfinder.com/data/icons/picons-basic-2/57/basic2-245_curriculum_vitae-256.png" alt=""></a>
-
+</div>
 
 <br />
 
