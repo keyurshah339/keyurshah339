@@ -1,7 +1,7 @@
 ### Hi there, I'm Keyur  👋
 
 
-## I'm a enthusiast Web Developer!!
+## I'm an enthusiast Web Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
