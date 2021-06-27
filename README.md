@@ -1,8 +1,9 @@
 ### Hi there, I'm Keyur  👋
 
 
-## I'm an enthusiast Web Developer!!
-- 🌱 I’m currently learning everything 🤣
+## I'm an enthusiast Web Developer,entering into MERN stack developer!!
+- 🌱 Enhancing my knowledge on web development.
+- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
