@@ -14,6 +14,8 @@
 
 <img align="left" alt="https://www.linkedin.com/in/keyur-shah-899378202/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
+<a class="links" href="https://www.linkedin.com/in/keyur-shah-899378202/"><img class="react-image" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-256.png" alt=""></a>
+
 
 <br />
 
