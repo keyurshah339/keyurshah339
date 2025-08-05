@@ -5,8 +5,8 @@
 
 ## I'm an enthusiast Web Developer,entering into MERN stack developer!!
 - 🌱 Enhancing my knowledge on web development.
-- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 💬 Reach out to me for discussions around frontend technologies.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play guitar
 
 
